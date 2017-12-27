@@ -58,9 +58,6 @@ set cursorline
 "set foldmethod=syntax
 
 " autoinfo plugin
-let g:vimrc_author='Xinghao Chen'
-let g:vimrc_email='chenxh09thu@gmail.com'
-nmap <F4> :AuthorInfoDetect<cr>
 
 filetype plugin on
 

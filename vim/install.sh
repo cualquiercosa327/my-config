@@ -1,1 +1,1 @@
-sudo cp vimrc /etc/vim/vimrc
+cp vimrc ~/.vimrc
